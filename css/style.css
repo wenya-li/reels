@@ -747,20 +747,20 @@ button {
 #my_slider .carousel-control-next:hover,
 #my_slider .carousel-control-prev:focus,
 #my_slider .carousel-control-next:focus {
-    background-color: #e8531f;
+    background-color:#7AB730;
     color: #ffffff;
 }
 
 #my_slider a.carousel-control-prev {
     position: absolute;
-    left: 87px;
+    left: 45px;
     top: 45%;
-    background-color: #e8531f;
+    background-color: #7AB730;
 }
 
 #my_slider a.carousel-control-next {
     position: absolute;
-    right: 87px;
+    right: 40px;
     top: 45%;
 }
 
@@ -768,7 +768,7 @@ button {
 #my_slider .carousel-control-next {
     width: 68px;
     height: 68px;
-    background: #e8531f;
+    background: #7AB730;
     opacity: 1;
     font-size: 20px;
     color: #ffffff;
